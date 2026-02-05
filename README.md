@@ -2,6 +2,13 @@
 
 Una aplicación de reproducción de música moderna con capacidades de chat de IA, construida con Flutter.
 
+<p align="center">
+  <img src=".resources/img/1.png" width="30%" />
+  <img src=".resources/img/2.png" width="30%" />
+  <img src=".resources/img/3.png" width="30%" />
+</p>
+
+
 ## Características
 
 *   **Reproductor de Música**: Reproducción de archivos de audio locales con soporte para metadatos (título, artista, álbum).
